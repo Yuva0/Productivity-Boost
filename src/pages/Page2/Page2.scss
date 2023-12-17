@@ -1,0 +1,45 @@
+.page2-container{
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: #023047;
+  box-sizing: border-box;
+  padding: 2rem;
+}
+
+.page2-slogan{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 5vh;
+}
+
+.page2-title{
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+}
+
+.page2-description{
+  font-size: 1.25rem;
+  line-height: 2rem;
+}
+
+.page2-image{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page2-image img{
+  width: 250px;
+  height: 100%;
+  transform: rotate(-18deg);
+}

@@ -1,0 +1,37 @@
+.page1-container{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: #52C4E0;
+  box-sizing: border-box;
+  padding: 2rem;
+}
+
+.page1-slogan{
+  font-size: 5.5rem;
+}
+
+.page1-slogan-part1{
+  z-index: 1;
+  margin-bottom: 8rem;
+}
+
+.page1-slogan-image-container{
+  position: absolute;
+  width:650px;
+  z-index: 2;
+}
+
+.page1-slogan-image{
+  max-height: 500px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.page1-slogan-part2{
+  z-index: 3;
+}

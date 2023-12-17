@@ -1,0 +1,45 @@
+.page3-container{
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: #ECAC09;
+  box-sizing: border-box;
+  padding: 2rem;
+}
+
+.page3-slogan{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 5vh;
+}
+
+.page3-title{
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+}
+
+.page3-description{
+  font-size: 1.25rem;
+  line-height: 2rem;
+}
+
+.page3-image{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page3-image img{
+  width: 250px;
+  height: 100%;
+  transform: rotate(-18deg);
+}

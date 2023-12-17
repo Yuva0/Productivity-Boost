@@ -1,0 +1,46 @@
+.page4-container{
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: #588157;
+  box-sizing: border-box;
+  padding: 2rem;
+}
+
+.page4-slogan{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 5vh;
+}
+
+.page4-title{
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+}
+
+.page4-description{
+  font-size: 1.25rem;
+  line-height: 2rem;
+}
+
+.page4-image{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page4-image img{
+  width: 450px;
+  height: 100%;
+  transform: rotate(-15deg);
+  border-radius: 16px;
+}
