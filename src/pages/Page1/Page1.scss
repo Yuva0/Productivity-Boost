@@ -3,12 +3,10 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   position: relative;
-  background-color: #52C4E0;
+  background-color: #79C1E2;
   box-sizing: border-box;
-  padding: 2rem;
 }
 
 .page1-slogan{
@@ -17,6 +15,7 @@
 
 .page1-slogan-part1{
   z-index: 1;
+  margin-top: 8rem;
   margin-bottom: 8rem;
 }
 
@@ -24,6 +23,7 @@
   position: absolute;
   width:650px;
   z-index: 2;
+  margin-top: 2rem;
 }
 
 .page1-slogan-image{
@@ -34,4 +34,10 @@
 
 .page1-slogan-part2{
   z-index: 3;
+}
+
+.page1-sticker{
+  position: relative;
+  margin-right: auto;
+  margin-bottom: 2rem;
 }

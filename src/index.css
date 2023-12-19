@@ -2,6 +2,7 @@ body {
   margin: 0;
   font-family: 'Rethink Sans', sans-serif;
   color:white;
+  box-sizing: border-box1;
 }
 
 code {

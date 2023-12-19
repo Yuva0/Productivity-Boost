@@ -6,9 +6,13 @@ import Wave from "./components/Wave/Wave.tsx";
 import Page4 from "./pages/Page4/Page4.tsx";
 import Page5 from "./pages/Page5/Page5.tsx";
 
+import './App.css';
+import Header from "./components/Header/Header.tsx";
+
 function App() {
   return (
-    <div className="App">
+    <div className="app">
+      <Header/>
       <Page1/>
       <Wave/>
       <Page2/>

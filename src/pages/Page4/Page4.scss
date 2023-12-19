@@ -1,6 +1,6 @@
 .page4-container{
   width: 100%;
-  min-height: 90vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -41,6 +41,6 @@
 .page4-image img{
   width: 450px;
   height: 100%;
-  transform: rotate(-15deg);
+  transform: rotate(8deg);
   border-radius: 16px;
 }
