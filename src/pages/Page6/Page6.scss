@@ -1,0 +1,34 @@
+.page6-container{
+  color: white;
+  min-height: 100vh;
+  background-color: #f5ebe0;
+}
+
+.page6-container-curve{
+  background-color: #003049;
+  border-radius: 70% 70% 0 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 150px;
+  padding-bottom:8rem;
+}
+
+.page6-title{
+  font-size: 6rem;
+  margin-bottom: 6rem;
+}
+
+.page6-cardset{
+  display: flex;
+  flex-direction: column;
+  gap:2rem;
+}
+
+.page6-cards{
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}

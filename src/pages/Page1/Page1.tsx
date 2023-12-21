@@ -12,9 +12,6 @@ const Page1 = () => {
         <img src={dumbbell} alt="Dumbbell" className="page1-slogan-image" />
       </div>
       <div className="page1-slogan page1-slogan-part2">Elevate Dominate</div>
-      <div className="page1-sticker">
-        <Sticker/>
-      </div>
       <Marquee/>
     </div>
   );

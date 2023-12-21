@@ -1,0 +1,26 @@
+.footer-container{
+  height: 100vh;
+  background-position-y: -1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap:6rem;
+}
+
+.footer-title{
+  margin-top: 6rem;
+  font-size: 3rem;
+}
+
+.footer-categories-main{
+  display: flex;
+  flex-direction: row;
+  font-size: 1.25rem;
+  gap:8rem;
+}
+
+.footer-categories{
+  display: flex;
+  flex-direction: column;
+  gap:2rem;
+}
