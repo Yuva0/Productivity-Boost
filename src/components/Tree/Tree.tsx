@@ -17,7 +17,27 @@ const Tree = () => {
       <img src={Tree1} alt="Tree"/>
       <img src={Tree2} alt="Tree"/>
       <img src={Tree3} alt="Tree"/>
-      <img src={Tree4} alt="Tree"/>
+      <img src={Tree5} alt="Tree"/>
+      <img src={Tree6} alt="Tree"/>
+      <img src={Tree7} alt="Tree"/>
+      <img src={Tree8} alt="Tree"/>
+      <img src={Tree1} alt="Tree"/>
+      <img src={Tree2} alt="Tree"/>
+      <img src={Tree3} alt="Tree"/>
+      <img src={Tree5} alt="Tree"/>
+      <img src={Tree6} alt="Tree"/>
+      <img src={Tree7} alt="Tree"/>
+      <img src={Tree8} alt="Tree"/>
+      <img src={Tree1} alt="Tree"/>
+      <img src={Tree2} alt="Tree"/>
+      <img src={Tree3} alt="Tree"/>
+      <img src={Tree5} alt="Tree"/>
+      <img src={Tree6} alt="Tree"/>
+      <img src={Tree7} alt="Tree"/>
+      <img src={Tree8} alt="Tree"/>
+      <img src={Tree1} alt="Tree"/>
+      <img src={Tree2} alt="Tree"/>
+      <img src={Tree3} alt="Tree"/>
       <img src={Tree5} alt="Tree"/>
       <img src={Tree6} alt="Tree"/>
       <img src={Tree7} alt="Tree"/>

@@ -24,8 +24,8 @@ function App() {
       <Page2/>
       <Electric/>
       <Page3/>
-      <Tree/>
       <Page4/>
+      <Tree/>
       <Page5/>
       <Page6/>
       <Footer/>
