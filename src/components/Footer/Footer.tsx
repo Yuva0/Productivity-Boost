@@ -10,9 +10,9 @@ const Footer = () => {
       <div className="footer-title">Thank you for watching!</div>
       <div className="footer-categories-main">
         <div className="footer-categories">
-          <div>Slogan1</div>
-          <div>Slogan2</div>
-          <div>Slogan3</div>
+          <div>Slogan 1</div>
+          <div>Slogan 2</div>
+          <div>Slogan 3</div>
         </div>
         <div className="footer-categories">
           <div>Homepage</div>

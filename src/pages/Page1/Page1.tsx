@@ -1,7 +1,7 @@
 import React from "react";
 import "./Page1.scss";
 import dumbbell from "../../img/dumbbell.png";
-import Marquee from "../../components/Marquee/Marquee.tsx";
+import Sponsors from "../../components/Marquee/Sponsors.tsx";
 import Sticker from "../../components/Sticker/Sticker.tsx";
 
 const Page1 = () => {
@@ -12,7 +12,7 @@ const Page1 = () => {
         <img src={dumbbell} alt="Dumbbell" className="page1-slogan-image" />
       </div>
       <div className="page1-slogan page1-slogan-part2">Elevate Dominate</div>
-      <Marquee/>
+      <Sponsors/>
     </div>
   );
 };

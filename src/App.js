@@ -11,6 +11,8 @@ import './App.css';
 import Header from "./components/Header/Header.tsx";
 import Page6 from "./pages/Page6/Page6.tsx";
 import Footer from "./components/Footer/Footer.tsx";
+import Electric from "./components/Electric/Electric.tsx";
+import Tree from "./components/Tree/Tree.tsx";
 
 function App() {
   return (
@@ -20,7 +22,9 @@ function App() {
       <Page1/>
       <Wave/>
       <Page2/>
+      <Electric/>
       <Page3/>
+      <Tree/>
       <Page4/>
       <Page5/>
       <Page6/>

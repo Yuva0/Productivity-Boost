@@ -16,7 +16,7 @@ const Page6 = () => {
         <div className="page6-title">Our Products</div>
         <div className="page6-cardset">
           <div className="page6-cards">
-            <Card image={water_purifier} alt="Water Purifier" title="Purifier" background="#bde0fe"/>
+            <Card image={water_purifier} alt="Water Purifier" title="Purifiers" background="#bde0fe"/>
             <Card image={bottle} alt="Bottle" title="Bottles" background="#fefae0"/>
             <Card image={litre_twenty} alt="Cans" title="Cans" background="#bde0fe"/>
           </div>
